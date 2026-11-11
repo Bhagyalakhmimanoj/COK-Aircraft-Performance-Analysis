@@ -77,6 +77,15 @@ The results are estimates from a simplified educational model and are not intend
 4. Select File → Upload notebook and upload the downloaded file.
 5. Run the cells in sequence to perform the calculations and generate the results and graphs.
    
+## Visual Results
+
+### Aircraft Approach Profiles
+
+![Aircraft Approach Profiles](COK_Approach_Profiles.png)
+
+### Aircraft Performance Comparison
+
+![Aircraft Performance Comparison](COK_Performance_Comparison.png)
 ## Project Status
 
 Completed – Simplified aircraft terminal approach analysis.
