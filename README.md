@@ -1,6 +1,8 @@
 # COK-Aircraft-Performance-Analysis
 Python-based aircraft flight mechanics analysis during a simplified terminal approach at Cochin International Airport.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yy_IAapQVfPHML8bD-fyn9LvQC_KMrOP)
+
 ## Project Overview
 
 This project focuses on analysing four commercial aircraft during a simplified 3-degree descent approach. Python is used to calculate and compare different flight and aerodynamic parameters.
