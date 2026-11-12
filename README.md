@@ -7,6 +7,13 @@ Python-based aircraft flight mechanics analysis during a simplified terminal app
 
 This project focuses on analysing four commercial aircraft during a simplified 3-degree descent approach. Python is used to calculate and compare different flight and aerodynamic parameters.
 
+## Project Objectives
+
+- To analyse aircraft descent profiles along a simplified 3° glide path.
+- To calculate important flight mechanics parameters.
+- To compare the performance of four aircraft configurations.
+- To visualise the calculated results using Python graphs.
+  
 ## Aircraft Considered
 
 - Airbus A320
