@@ -35,11 +35,13 @@ This project focuses on analysing four commercial aircraft during a simplified 3
 
 ## How to Run
 
-1. Download the `.ipynb` notebook from this repository.
-2. Open Google Colab.
-3. Select File → Upload notebook.
-4. Upload the downloaded notebook.
-5. Run the cells in sequence to perform the analysis and generate the graphs.
+1. Open the notebook available in this repository.
+2. Click the **Open in Colab** badge to open it directly in Google Colab.
+3. Alternatively, download the `.ipynb` file and open [Google Colab](https://colab.research.google.com/).
+4. Select **File → Upload notebook** and upload the downloaded file.
+5. Run the cells in sequence to perform the calculations and generate the results and graphs.
+
+**Note:** The notebook requires Python and the NumPy, Pandas and Matplotlib libraries.
 
 ## Methodology
 
