@@ -41,8 +41,6 @@ This project focuses on analysing four commercial aircraft during a simplified 3
 4. Select **File → Upload notebook** and upload the downloaded file.
 5. Run the cells in sequence to perform the calculations and generate the results and graphs.
 
-**Note:** The notebook requires Python and the NumPy, Pandas and Matplotlib libraries.
-
 ## Methodology
 
 A simplified 3-degree descent path is used for the analysis. The International Standard Atmosphere (ISA) model is used to estimate atmospheric temperature, pressure and density.
@@ -108,7 +106,7 @@ It includes:
 - **Required Thrust:** Compares the thrust required during the approach.
 - **Vertical Speed:** Shows the rate of descent of each aircraft.
 
-![Aircraft Performance Comparison](COK_Performance_Comparison.png)
+![Aircraft Performance Comparison]([COK_Performance_Comparison.png](https://github.com/Bhagyalakhmimanoj/COK-Aircraft-Performance-Analysis/blob/main/COK_Performance_Comparison.png))
 
 
 ## Project Status
