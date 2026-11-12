@@ -70,14 +70,6 @@ Based on the calculated results:
 - Hypothetical aircraft scenarios are used instead of actual flight data.
 
 The results are estimates from a simplified educational model and are not intended for operational flight planning.
-
-## How to Run
-
-1. Open the notebook available in this repository.
-2. Click the **Open in Colab** option, or download the `.ipynb` file.
-3. If downloaded, open [Google Colab](https://colab.research.google.com/).
-4. Select File → Upload notebook and upload the downloaded file.
-5. Run the cells in sequence to perform the calculations and generate the results and graphs.
    
 ## Visual Results
 
@@ -90,7 +82,7 @@ The graph shows the aircraft's altitude at its respective distance from the runw
 
 ### Aircraft Approach Comparison
 
-![Aircraft Performance Comparison](COK_Approach_Comparison.png)
+![Aircraft Approach Comparison](COK_Approach_Comparison.png)
 This graph presents a combined comparison of the four aircraft approach profiles on a single plot.
 It shows the relationship between distance from the runway and aircraft altitude during the simulated 3° descent.
 The comparison helps visualise the different approach distances and corresponding altitudes of the four aircraft configurations.
