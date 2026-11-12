@@ -90,7 +90,7 @@ The graph shows the aircraft's altitude at its respective distance from the runw
 
 ### Aircraft Approach Comparison
 
-![Aircraft Performance Comparison](COK_Performance_Comparison.png)
+![Aircraft Performance Comparison](COK_Approach_Comparison.png)
 This graph presents a combined comparison of the four aircraft approach profiles on a single plot.
 It shows the relationship between distance from the runway and aircraft altitude during the simulated 3° descent.
 The comparison helps visualise the different approach distances and corresponding altitudes of the four aircraft configurations.
@@ -106,7 +106,7 @@ It includes:
 - **Required Thrust:** Compares the thrust required during the approach.
 - **Vertical Speed:** Shows the rate of descent of each aircraft.
 
-![Aircraft Performance Comparison]([COK_Performance_Comparison.png](https://github.com/Bhagyalakhmimanoj/COK-Aircraft-Performance-Analysis/blob/main/COK_Performance_Comparison.png))
+![Aircraft Performance Comparison](COK_Performance_Comparison.png)
 
 
 ## Project Status
