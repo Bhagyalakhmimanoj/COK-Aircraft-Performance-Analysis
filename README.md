@@ -84,10 +84,31 @@ The results are estimates from a simplified educational model and are not intend
 ### Aircraft Approach Profiles
 
 ![Aircraft Approach Profiles](COK_Approach_Profiles.png)
+The graph illustrates the descent profiles of four aircraft configurations (A320, B738, B789 and B77W) during a simplified terminal approach to Cochin International Airport (COK), Runway 27.
+Each aircraft follows a constant 3° descent path. 
+The graph shows the aircraft's altitude at its respective distance from the runway, helping to visualise how the four aircraft approach the runway from different distances and altitudes.
+
+### Aircraft Approach Comparison
+
+![Aircraft Performance Comparison](COK_Performance_Comparison.png)
+This graph presents a combined comparison of the four aircraft approach profiles on a single plot.
+It shows the relationship between distance from the runway and aircraft altitude during the simulated 3° descent.
+The comparison helps visualise the different approach distances and corresponding altitudes of the four aircraft configurations.
 
 ### Aircraft Performance Comparison
 
+The following graph compares the performance parameters of the four aircraft configurations during the simulated terminal approach.
+
+It includes:
+
+- **True Airspeed (TAS):** Compares the true airspeed of each aircraft.
+- **Aerodynamic Drag:** Shows the drag experienced by each aircraft.
+- **Required Thrust:** Compares the thrust required during the approach.
+- **Vertical Speed:** Shows the rate of descent of each aircraft.
+
 ![Aircraft Performance Comparison](COK_Performance_Comparison.png)
+
+
 ## Project Status
 
 Completed – Simplified aircraft terminal approach analysis.
